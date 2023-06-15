@@ -1,4 +1,4 @@
-# SpringBoot Web Service Project
+# Spring Boot Web Service Project
 Projeto web services com Spring Boot e JPA/Hibernate feito durante o curso do profº Nélio Alves da Educando Web.
 ## Conhecimentos Aplicados
 - Criação projeto Spring Boot Java  
